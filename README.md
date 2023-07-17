@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b4df130a49b0be0ed41017?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b4df130a49b0be0ed41017?variant=dark)](https://roadmap.sh)
 
 <!--
 **avkulikov/avkulikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
